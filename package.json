@@ -12,6 +12,15 @@
   "engines": {
     "node": ">=20"
   },
+  "cds": {
+    "requires": {
+      "auth": "dummy",
+      "db" : {
+        "kind" : "sqlite",
+        "credentials" : { "url" : "db.sqlite"}
+      }
+    }
+  },
   "devDependencies": {
     "@cap-js/sqlite": "^2",
     "@cap-js/cds-types": "^0.13.0"

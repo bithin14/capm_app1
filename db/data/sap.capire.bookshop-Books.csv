@@ -1,0 +1,6 @@
+ID,title,author_ID,genre_ID,stock,price,currency_code,createdAt,createdBy,modifiedAt,modifiedBy
+201,Wuthering Heights,101,301,10,100.00,USD,"2025-07-25T09:23:02Z",user789,"2025-07-25T09:23:02Z",user789
+207,Jane Eyre,102,303,12,200.00,USD,"2025-07-25T09:23:02Z",user789,"2025-07-25T09:23:02Z",user789
+251,The Raven,150,301,15,105.00,USD,"2025-07-24T09:23:02Z",user789,"2025-07-24T09:23:02Z",user789
+252,Eleonora,150,302,52,154.00,USD,"2025-07-25T09:23:02Z",user780,"2025-07-25T09:23:02Z",user789
+271,Catweazle,170,301,112,213.00,USD,"2025-07-24T09:23:02Z",user775,"2025-07-24T09:23:02Z",user775
